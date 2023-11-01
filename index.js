@@ -4,7 +4,7 @@ const port = 3009
 
 app.get("/", (req,res) => {
     res.json({
-        aneesh: "je"
+        aneesh: "rujul!"
     })
 })
 
